@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/destinationplan/static/css/main.09918eca.chunk.css",
-    "main.js": "/destinationplan/static/js/main.8f8efb1e.chunk.js",
-    "main.js.map": "/destinationplan/static/js/main.8f8efb1e.chunk.js.map",
+    "main.js": "/destinationplan/static/js/main.bc9522c4.chunk.js",
+    "main.js.map": "/destinationplan/static/js/main.bc9522c4.chunk.js.map",
     "runtime-main.js": "/destinationplan/static/js/runtime-main.97bdfc64.js",
     "runtime-main.js.map": "/destinationplan/static/js/runtime-main.97bdfc64.js.map",
     "static/css/2.61b4cb56.chunk.css": "/destinationplan/static/css/2.61b4cb56.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.69b5f914.chunk.js",
     "static/css/main.09918eca.chunk.css",
-    "static/js/main.8f8efb1e.chunk.js"
+    "static/js/main.bc9522c4.chunk.js"
   ]
 }
